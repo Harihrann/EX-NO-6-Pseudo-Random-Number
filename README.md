@@ -37,7 +37,8 @@ int main()
 }
 ```
 # OUTPUT:
-![Uploading image.png…]()
+<img width="1493" height="813" alt="image" src="https://github.com/user-attachments/assets/fc57e3c1-06f9-43d4-96bd-090eafbe0ee8" />
+
 
 
 
