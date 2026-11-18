@@ -37,6 +37,8 @@ int main()
 }
 ```
 # OUTPUT:
+![Uploading image.png…]()
+
 
 
 # RESULT
